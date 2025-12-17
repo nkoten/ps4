@@ -60,13 +60,6 @@ const games = {
       page: 'https://dlpsgame.com/call-of-duty-modern-warfare-2019-ps4-pkg/',
     },
   ],
-  mineCraft: {
-    id: '',
-    title: '',
-    versio: '3.26',
-    download: 'https://www.mediafire.com/file/73p8os25m9b2foe/CUSA00744%20-%20USA%20(v3.26)%20-%20[DLPSGAME.COM].rar/file',
-    update: 'https://www.mediafire.com/file/ekp5vuc2bns5c4k/CUSA00744-DLC-[DLPSGAME.COM].rar/file',
-  },
   fifa: [
     fifa_19 = {
       id: '',
