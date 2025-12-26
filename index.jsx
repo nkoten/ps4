@@ -69,17 +69,21 @@ const games = {
   },
   fifa: [
     fifa_19 = {
-      id: '',
+      id: 'CUSA11608 - EUR',
       title: 'Fifa 19',
       page: 'https://dlpsgame.com/fifa-19-ps4-pkg/',
+      key: 'downloadgameps3.com',
       download: [
-        // 'https://filecrypt.cc/Container/000451142D.html'
-        'https://www.mediafire.com/file/umdx407simcmnxb/UP0006-CUSA11600_00-FIFAFOOTBALL2019-A0100-V0100-[DLPSGAME.COM].part1.rar/file',
-        'https://www.mediafire.com/file/dd6lcstfa65otnl/UP0006-CUSA11600_00-FIFAFOOTBALL2019-A0100-V0100-[DLPSGAME.COM].part2.rar/file',
-        'https://www.mediafire.com/file/spch6tl51i52y5g/UP0006-CUSA11600_00-FIFAFOOTBALL2019-A0100-V0100-[DLPSGAME.COM].part3.rar/file',
-        'https://www.mediafire.com/file/6rhosja3lm59o5x/UP0006-CUSA11600_00-FIFAFOOTBALL2019-A0100-V0100-[DLPSGAME.COM].part4.rar/file',
+        // 'https://filecrypt.cc/Container/89110681EC.html'
+        'filecrypt.cc/Link/43672A7254.html',
+        'https://ranoz.gg/file/4glTHO6o',
+        'https://ranoz.gg/file/IhQj1ntj',
+        'https://ranoz.gg/file/T76sjCsK',
+        'https://ranoz.gg/file/9FE1aW7n',
       ],
-      update: 'https://www.mediafire.com/file/62p05w94xfidmwc/UP0006-CUSA11600_00-FIFAFOOTBALL2019-A0117-V0100-[DLPSGAME.COM].pkg/file',
+      update_1_17: 'https://ranoz.gg/file/RYevbuwj',
+      audio: 'https://downloadgameps3.net/archives/22125',
+      audio_br: 'https://akirabox.to/BnkmWVdVdGR0/file',
     },
     fifa_23 = {
       id: 'CUSA31873 – EUR',
